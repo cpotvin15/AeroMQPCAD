@@ -7,10 +7,7 @@
 
 
 
-
-
 #Active Aerodynamics System Code
-
 
 
 
@@ -92,3 +89,19 @@ def main_loop():
 
 if __name__ == "__main__":
     main_loop()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# write in function for GPS measured speed using arduino sensor
+
